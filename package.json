@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "google-fonts-complete": "^1.2.2",
     "react": "^16.8.6",
+    "react-color": "^2.17.1",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "webfontloader": "^1.6.28"
   },
   "scripts": {
     "start": "react-scripts start",
